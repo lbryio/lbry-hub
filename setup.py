@@ -42,7 +42,7 @@ setup(
         'elasticsearch==7.10.1',
         'hachoir==3.1.2',
         'filetype==1.0.9',
-        'grpcio==1.38.0',
+        'grpcio==1.46.0',
         'lbry-rocksdb==0.8.2',
         'ujson==5.4.0',
         'rehash==1.0.0'
